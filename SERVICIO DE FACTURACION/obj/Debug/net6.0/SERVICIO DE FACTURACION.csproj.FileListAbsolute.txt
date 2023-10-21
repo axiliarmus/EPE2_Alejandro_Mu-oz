@@ -1,0 +1,7 @@
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.csproj.AssemblyReference.cache
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.AssemblyInfoInputs.cache
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.AssemblyInfo.cs
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\munoz\Downloads\epe2\SERVICIO DE FACTURACION\obj\Debug\net6.0\SERVICIO DE FACTURACION.MvcApplicationPartsAssemblyInfo.cache
